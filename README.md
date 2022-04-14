@@ -13,6 +13,6 @@ I learned the following topics:
 * Git branching and merging.
 * Function refactoring. 
 
-It took roughly 13 hours to write the JavaScript/HTML/CSS code for this.
+It took me roughly 13 hours to write the JavaScript/HTML/CSS code for this.
 I struggled a little with the CSS/javaScript coordination (for styles) but in the end i figured out!
 
